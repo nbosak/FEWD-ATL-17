@@ -1,0 +1,15 @@
+#notification {
+	
+}
+
+.message {
+	
+}
+
+.error {
+	background: pink;
+}
+
+.success {
+	background: lightgreen;
+}

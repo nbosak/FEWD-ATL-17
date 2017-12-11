@@ -1,8 +1,8 @@
 /*
-Project Name: Blank Template
+Project Name: Relaxr Lab
 Client: Your Client
-Author: Your Name
-Developer @GA in NYC
+Author: Nicholas Bosak
+Developer @GA in GA
 */
 
 
@@ -68,7 +68,7 @@ body {
 }
 
 header {
-
+	
 }
 
 footer {
@@ -79,6 +79,23 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+h1 {
+	color: white;
+}
 
+h2 {
+	color: white;
+	text-align: center;
+}
 
+h3 {
+	
+}
 
+p {
+	background: white;
+}
+
+.top {
+	
+}
